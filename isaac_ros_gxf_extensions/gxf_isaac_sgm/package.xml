@@ -34,6 +34,7 @@ SPDX-License-Identifier: Apache-2.0
   <depend>isaac_ros_common</depend>
   <depend>isaac_ros_gxf</depend>
   <depend>gxf_isaac_messages</depend>
+  <depend>magic_enum</depend>
 
   <build_depend>gxf_isaac_gems</build_depend>
 
